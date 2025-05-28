@@ -72,3 +72,6 @@ Developed during our internship at Utkarsh Minds to solve real-world security ch
 # Screenshot
 
 ![WhatsApp Image 2025-04-27 at 20 27 31_1e58333e](https://github.com/user-attachments/assets/c7a8395d-6467-4721-b038-99176e6ad6bb)
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
